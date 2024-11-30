@@ -1,0 +1,31 @@
+.generalContainer {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 12px;
+    border-radius: 10px;
+}
+
+.generalTitle {
+    text-align: center;
+}
+
+.inputsContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.inputContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    margin: 12px 12px 20px 12px;
+}
+
+button {
+    margin: 10px;
+    border: 1px solid black;
+}
