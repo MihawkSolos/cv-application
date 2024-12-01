@@ -37,7 +37,7 @@ export function GeneralInfo () {
             </div>
 
             {isEditing ? (
-                <div className="inputsContainer">
+            <div className="inputsContainer">
                 <div className="firstNameContainer inputContainer">
                     <label htmlFor="firstName">First Name:</label>
                     <input 

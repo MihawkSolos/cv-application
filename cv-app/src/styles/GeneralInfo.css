@@ -29,3 +29,10 @@ button {
     margin: 10px;
     border: 1px solid black;
 }
+
+@media (max-width: 840px) {
+    .inputsContainer {
+        display: flex;
+        flex-direction: column;
+    }
+}
