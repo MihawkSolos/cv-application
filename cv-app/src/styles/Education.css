@@ -1,0 +1,8 @@
+.educationContainer {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 12px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
